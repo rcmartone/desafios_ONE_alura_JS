@@ -52,7 +52,5 @@
         </li>
         <li>Abra um pull request e aguarde a revisão.</li>
     </ol>
-    <h2>📄 Licença</h2>
-    <p>Este projeto está licenciado sob a Licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
 </body>
 </html>
